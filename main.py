@@ -10,7 +10,7 @@ import json
 import pytesseract
 from PIL import ImageGrab
 import threading
-from chatgpt import chat
+from chatgpt_free import chat
 # from tongyi import chat 
 from tkinter import scrolledtext
 import os
